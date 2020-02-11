@@ -15,3 +15,10 @@
 # Learn to read the documentation!
 # http://ruby-doc.org/core-2.5.1/Array.html
 
+brians_list = ["bacon", "steak", "taco shells", "coffee"]
+bens_list = ["kale", "sticks", "berries", "coffee"]
+shared_list = brians_list + bens_list
+sorted_list = shared_list.sort
+unique_list = sorted_list.uniq
+
+puts unique_list
