@@ -3,7 +3,7 @@
 # ruby 1.rb
 
 # In Ruby, there are different *types* of things:
-
+ 
 # Numbers
 puts 2
 puts 5
